@@ -1,4 +1,4 @@
-<h2 align="left">Hi, I'm Ayaan.</h2>
+<h2 align="left">Hm.</h2>
 
 ###
 
@@ -52,9 +52,3 @@
 <div align="center">
   <img height="300" src="https://i.pinimg.com/originals/a3/18/61/a3186153c39f3ec984cbf20ec50d9da0.gif"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/LeSamourai23/LeSamourai23/output/snake.svg" alt="Snake animation" />
-
-###
